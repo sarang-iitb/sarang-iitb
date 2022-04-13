@@ -18,8 +18,8 @@
   * Digital Image Processing
   * Digital Speech Processing
   * Research Methodology
-- ⏳ Teaching Assistant for subject
-  * Stastical Programming
+- 👨‍🏫 Teaching Assistant at IIT Bhilai for following subject
+  * Statistical Programming
   * EE Independent project
   * Professional Ethics
 - 🤔 My interests are in Data Science, Machine Learning and Artificial Intelligence.
