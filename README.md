@@ -22,6 +22,11 @@
   * Statistical Programming
   * EE Independent project
   * Professional Ethics
+- 📃 Research Papers read
+  * CN-Celeb: A challenging chinese speaker recognition dataset  
+  * CN-Celeb: Multi-genre speaker recognition
+  * A Multiscale and Multi-Perturbation Blind Forensic Technique For Median Detecting
+  * CNN-RNN: A Unified Framework for Multi-label Image Classification
 - 🤔 My interests are in Data Science, Machine Learning and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via sarangd@iitbhilai.ac.in to reach me.
