@@ -18,7 +18,10 @@
   * Digital Image Processing
   * Digital Speech Processing
   * Research Methodology
-- ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
+- ⏳ Teaching Assistant for subject
+  * Stastical Programming
+  * EE Independent project
+  * Professional Ethics
 - 🤔 My interests are in Data Science, Machine Learning and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via sarangd@iitbhilai.ac.in to reach me.
