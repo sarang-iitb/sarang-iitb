@@ -5,8 +5,9 @@
     I'm currently pursuing my <b>M.Tech</b> at <b> Indian Institute of Technology Bhilai </b> with specialization in <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" />
 <em>
+
 
 **Talking about Personal Stuffs:**
 
