@@ -5,9 +5,10 @@
     I'm currently pursuing my <b>M.Tech</b> at <b> Indian Institute of Technology Bhilai </b> with specialization in <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" />
 <em>
 
+  
 
 **Talking about Personal Stuffs:**
 
@@ -40,7 +41,7 @@
 <hr>
 <div>
 <p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" />
 
 **Things I'm good at :fire:**
 
