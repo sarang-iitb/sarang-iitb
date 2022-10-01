@@ -30,8 +30,8 @@
 - 🤔 My interests are in Data Science, Machine Learning and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via sarangd@iitbhilai.ac.in to reach me.
-- 📝 See my [Resume](https://github.com/linktoresume) to get more info about me.
-- 🎯Visit my Blog [website](https://inblog.in/@akshaykadam771)
+
+
 
 <br/>
 </em>
