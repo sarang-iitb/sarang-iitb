@@ -75,7 +75,7 @@ Happy Coding!!
 
 ### My Socials
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/sarang-jodh-b9423b231/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/sarang-iitb)  [<img target="_blank" 
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/sarang-jodh-b9423b231/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/sarang-iitb)  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarang-iitb&style=flat-square)
