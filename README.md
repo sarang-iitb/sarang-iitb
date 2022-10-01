@@ -17,16 +17,18 @@
   * Machine Learning
   * Digital Image Processing
   * Digital Speech Processing
+  * Maths of Data Science
+  * Data Science & Artificial Intelligence Lab
   * Research Methodology
 - 👨‍🏫 Teaching Assistant at IIT Bhilai for following subject
+  * Machine Learning
   * Statistical Programming
   * EE Independent project
   * Professional Ethics
-- 📃 Research Papers read
-  * CN-Celeb: A challenging chinese speaker recognition dataset  
-  * CN-Celeb: Multi-genre speaker recognition
-  * A Multiscale and Multi-Perturbation Blind Forensic Technique For Median Detecting
-  * CNN-RNN: A Unified Framework for Multi-label Image Classification
+- 📃 Research Topic
+  * Speaker Verification Systems  
+  * Video KYC System
+  * Currently working on a MeitY funded live project at IIT Bhilai 
 - 🤔 My interests are in Data Science, Machine Learning and Artificial Intelligence.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via sarangd@iitbhilai.ac.in to reach me.
