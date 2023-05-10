@@ -21,6 +21,7 @@
   * Data Science & Artificial Intelligence Lab
   * Research Methodology
 - 👨‍🏫 Teaching Assistant at IIT Bhilai for following subject
+  * Digital Speech Processing
   * Machine Learning
   * Statistical Programming
   * EE Independent project
