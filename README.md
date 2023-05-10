@@ -17,6 +17,8 @@
   * Machine Learning
   * Digital Image Processing
   * Digital Speech Processing
+  * Blockchain Technology
+  * Information Retrieval
   * Maths of Data Science
   * Data Science & Artificial Intelligence Lab
   * Research Methodology
